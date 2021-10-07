@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Art"
-tag:purview
+tag: "purview"
 ---
 ## ARTISTRY
 |Boon |Level |Cost |Roll |Effect |

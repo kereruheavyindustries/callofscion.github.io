@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Animal"
-tag:purview
+tag: "purview"
 ---
 ## ANIMAL
+
+
 |Boon |Level |Cost |Roll |Effect |
-|---|---|---|---|---|
+|------|------|------|------|------|
 |Animal Communication |● |— |— |Talk to animals. |
 |Animal Obedience |●● |1W |Cha + AK |Force animals to do your bidding. |
 |Animal Adaptation |●● |5L + 1W |— |Change your chosen animal |
