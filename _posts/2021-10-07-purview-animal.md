@@ -3,31 +3,32 @@ layout: post
 title:  "Animal"
 tag: "purview"
 ---
+
 ## ANIMAL
 
+| Boon | Level | Cost | Roll | Effect  |
+|--------|--------|--------|--------|--------|
+| Animal Communication | ● | — | — | Talk to animals. |
+| Animal Obedience | ●● | 1W | Cha + AK | Force animals to do your bidding. |
+| Animal Adaptation | ●● | 5L + 1W | — | Change your chosen animal |
+| Animal Aspect | ●●● | 1+L | Sta + AK | Gain dice to an Attribute for the scene. |
+| Call of the Wild | ●●● | 2L | Cha + AK | Call all animals in your local area to come to you. |
+| Ride Animal | ●●●● | 1L | Int + AK | Possess an animal and use its body instead of your own. |
+| Animal Feature | ●●●●● | 1+L + 1W | Sta + AK | Gain temporary animal physical features to gain bonuses to abilities. |
+| Hive Mind | ●●●●● | 5L | Per + AK | Perceive through the senses of all animals in your area and direct them to search for you. |
+| Animal Form | ●●●●● ● | 1L | - | Transform yourself physically into an animal. |
+| Natural Army | ●●●●● ● | 1L | - | Transform yourself physically into a large number of small animals. |
+| Create Animal | ●●●●● ●● | 3L + 1W + 3Le | Sta + AK | Create animals from your own blood. |
+| Paper Tiger | ●●●●● ●● | 6L + 1W | Int + Art | Create animals from artwork of them. |
+| Create Nemean Animal | ●●●●● ●●● | 6L + 2W + 6Le | Sta + AK | Create Nemean animals from your blood. |
+| Epic Enhancement | ●●●●● ●●● | 5L + 1W | Int + AK | Enhance an animal with Epic Attributes. |
+| Nemean Scroll | ●●●●● ●●● | 12L + 2W | Int + Art | Create Nemean animals from artwork of them. |
+| Bestial Nature | ●●●●● ●●●● | 1W dot | - | Give yourself permanent animal features that grant bonuses to Boons. |
+| Hybrid Chimera | ●●●●● ●●●● | 10-25L | Int + AK | Combine animals into new hybrids. |
+| Protean Understanding | ●●●●● ●●●●● | - | - | Apply your Animal Boons to all animal types. |
+| Typhonian Animal | ●●●●● ●●●●● | 12L + 3W + 12Le | Sta + AK | Create typhonian animals from your blood. |
+| The Beast | ●●●●● ●●●●● ● | 30L + 1W | - | Become a primordial predator that controls all animals, cannot be hurt by weapons and always catches its prey. |
 
-|Boon |Level |Cost |Roll |Effect |
-|------|------|------|------|------|
-|Animal Communication |● |— |— |Talk to animals. |
-|Animal Obedience |●● |1W |Cha + AK |Force animals to do your bidding. |
-|Animal Adaptation |●● |5L + 1W |— |Change your chosen animal |
-|Animal Aspect |●●● |1+L |Sta + AK |Gain dice to an Attribute for the scene. |
-|Call of the Wild |●●● |2L |Cha + AK |Call all animals in your local area to come to you. |
-|Ride Animal |●●●● |1L |Int + AK |Possess an animal and use its body instead of your own. |
-|Animal Feature |●●●●● |1+L + 1W |Sta + AK |Gain temporary animal physical features to gain bonuses to abilities. |
-|Hive Mind |●●●●● |5L |Per + AK |Perceive through the senses of all animals in your area and direct them to search for you. |
-|Animal Form |●●●●● ● |1L |- |Transform yourself physically into an animal. |
-|Natural Army |●●●●● ● |1L |- |Transform yourself physically into a large number of small animals. |
-|Create Animal |●●●●● ●● |3L + 1W + 3Le |Sta + AK |Create animals from your own blood. |
-|Paper Tiger |●●●●● ●● |6L + 1W |Int + Art |Create animals from artwork of them. |
-|Create Nemean Animal |●●●●● ●●● |6L + 2W + 6Le |Sta + AK |Create Nemean animals from your blood. |
-|Epic Enhancement |●●●●● ●●● |5L + 1W |Int + AK |Enhance an animal with Epic Attributes. |
-|Nemean Scroll |●●●●● ●●● |12L + 2W |Int + Art |Create Nemean animals from artwork of them. |
-|Bestial Nature |●●●●● ●●●● |1W dot |- |Give yourself permanent animal features that grant bonuses to Boons. |
-|Hybrid Chimera |●●●●● ●●●● |10-25L |Int + AK |Combine animals into new hybrids. |
-|Protean Understanding |●●●●● ●●●●● |- |- |Apply your Animal Boons to all animal types. |
-|Typhonian Animal |●●●●● ●●●●● |12L + 3W + 12Le |Sta + AK |Create typhonian animals from your blood. |
-|The Beast |●●●●● ●●●●● ● |30L + 1W |- |Become a primordial predator that controls all animals, cannot be hurt by weapons and always catches its prey. |
 Upon purchasing their first Boon in the Animal purview, Scions must choose a specific animal as their favored one for purposes of the purview. All powers refer to and affect only that animal unless otherwise specified, though the Scion may buy the same Boon more than once in order to use it on more than one kind of creature. Scions can have 1 animal, Demigods can have 2, Gods can have 3.
 
 ### ANIMAL COMMUNICATION ●
@@ -111,16 +112,17 @@ The Scion with this Boon may transform into a number of normal specimens of his 
 
 After cutting herself, the Scion may create normal specimens of her chosen animal from her very blood, allowing them to spring fully-formed into being, ready to follow her commands. Once created, the creatures are permanent unless killed.
 
-|Creatures |Units per Successes Rolled |
-|---|---|
-|Speck (ant, tick, seahorse) |100 |
-|Tiny (grasshopper, hummingbird) |50 |
-|Small (raven, housecat, badger) |10 |
-|Modest (wolf, kangaroo, lynx) |2 |
-|Normal (lion, dolphin, tiger) |1/2 |
-|Large (horse, bear) |1/4 |
-|Huge (elephant, great white shark) |1/6 |
-|Enormous (whale, giant squid) |1/10 |
+| Creatures | Units per Successes Rolled  |
+|--------|--------|
+| Speck (ant, tick, seahorse) | 100 |
+| Tiny (grasshopper, hummingbird) | 50 |
+| Small (raven, housecat, badger) | 10 |
+| Modest (wolf, kangaroo, lynx) | 2 |
+| Normal (lion, dolphin, tiger) | 1/2 |
+| Large (horse, bear) | 1/4 |
+| Huge (elephant, great white shark) | 1/6 |
+| Enormous (whale, giant squid) | 1/10 |
+
 ### PAPER TIGER ●●●●● ●●
 **Cost:** 6 Legend and 1 Willpower per use
 
@@ -128,16 +130,17 @@ After cutting herself, the Scion may create normal specimens of her chosen anima
 
 By creating a piece of art representing a specimen of his chosen animal (whether a painting, sculpture, carving, etc.), the Scion may then summon forth that animal from the artwork at any time as long as he pays one Legend to do so. Artwork thus created is considered a Relic and is extremely difficult to destroy until this boon is used, whereupon it loses its special properties and cannot be used for purposes of this boon again. The animal is a normal specimen of the Scion’s chosen creature, and once created is permanent unless killed.
 
-|Creatures |Units per Successes Rolled |
-|---|---|
-|Speck (ant, tick, seahorse) |100 |
-|Tiny (grasshopper, hummingbird) |50 |
-|Small (raven, housecat, badger) |10 |
-|Modest (wolf, kangaroo, lynx) |2 |
-|Normal (lion, dolphin, tiger) |1/2 |
-|Large (horse, bear) |1/4 |
-|Huge (elephant, great white shark) |1/6 |
-|Enormous (whale, giant squid) |1/10 |
+| Creatures | Units per Successes Rolled  |
+|--------|--------|
+| Speck (ant, tick, seahorse) | 100 |
+| Tiny (grasshopper, hummingbird) | 50 |
+| Small (raven, housecat, badger) | 10 |
+| Modest (wolf, kangaroo, lynx) | 2 |
+| Normal (lion, dolphin, tiger) | 1/2 |
+| Large (horse, bear) | 1/4 |
+| Huge (elephant, great white shark) | 1/6 |
+| Enormous (whale, giant squid) | 1/10 |
+
 ### CREATE NEMEAN ANIMAL ●●●●● ●●●
 **Cost:** 6 Legend, 2 Willpower and 6 lethal damage per use
 
@@ -154,14 +157,15 @@ After cutting herself, the Scion may create a Nemean specimen of her chosen anim
 
 The Scion may enhance a normal specimen of his animal, granting it bonuses beyond its normal abilities and effectively turning it into a Legendary beast. The Scion must decide how many times he wishes to roll before activating the power; he cannot add rolls mid-use, and he can only enhance a given animal once. Once he has rolled, he may use his total successes to purchase any combination of enhancements as follows:
 
-|Successes |Enhancement |
-|---|---|
-|1 Success |+1 to Ability, or Mental or Social Attribute |
-|2 Successes |+1 to Accuracy, DV or Soaks |
-|3 Successes |+1 to Dexterity, or Epic Mental or Social Attribute |
-|4 Successes |+1 to Strength or Stamina, or increase size by 100% |
-|5 Successes |+1 to Epic Physical Attribute |
-|10 Successes |+1 to Legend rating (maximum of Scion’s Legend – 1) |
+| Successes | Enhancement  |
+|--------|--------|
+| 1 Success | +1 to Ability, or Mental or Social Attribute |
+| 2 Successes | +1 to Accuracy, DV or Soaks |
+| 3 Successes | +1 to Dexterity, or Epic Mental or Social Attribute |
+| 4 Successes | +1 to Strength or Stamina, or increase size by 100% |
+| 5 Successes | +1 to Epic Physical Attribute |
+| 10 Successes | +1 to Legend rating (maximum of Scion’s Legend – 1) |
+
 The Scion may not increase any given animal’s physical Attributes, accuracy, DV, soaks or damage (through any combination of enhancements) past five times the creature’s total Legend plus the number size increases he has applied to it, and may not increase any of its mental or social attributes past five times the creature’s Legend. While the Scion may normally only enhance normal, non-Legendary animals with this Boon, he may also use it once on a Birthright animal, even if it is already Legendary.
 
 ### NEMEAN SCROLL ●●●●● ●●●
@@ -207,12 +211,13 @@ Difficulty: Varies (see below)
 
 After cutting herself and bleeding divine ichor on a specimen of her chosen animal, the Scion may create truly awesome Typhonian beast from her very blood. During the ritual, the creature in question grows to one thousand times its size; all Physical Attributes are multiplied by the creature’s new Legend rating, as are its health boxes. It gains Epic Stamina and Strength equal to its (Legend – 1), has an Accuracy rating of its (Dexterity + 40), and gains an additional soak of 8 aggravated and 16 bashing and lethal. Once created, the creature is permanent unless killed.
 
-|Successes |Beast’s Legend |
-|---|---|
-|20 Successes |Legend 9 |
-|40 Successes |Legend 10 |
-|60 Successes |Legend 11 |
-|80 Successes |Legend 12 |
+| Successes | Beast’s Legend  |
+|--------|--------|
+| 20 Successes | Legend 9 |
+| 40 Successes | Legend 10 |
+| 60 Successes | Legend 11 |
+| 80 Successes | Legend 12 |
+
 ### THE BEAST
 **Cost:** 30 Legend and 1 Willpower per scene
 

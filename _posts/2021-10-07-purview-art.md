@@ -1,37 +1,38 @@
 ---
 layout: post
-title:  "Art"
+title:  "Artistry"
 tag: "purview"
 ---
-## ARTISTRY
-|Boon |Level |Cost |Roll |Effect |
-|---|---|---|---|---|
-|Fundamentals |● |- |- |Add your artistry Boons to all Art rolls. |
-|Work Smarter |● |2L+1W |Wit+Art |Build any mundane project in a single scene. |
-|Polymath |●● |- |- |Use more general Art specializations. |
-|Rival Reading |●● |1L |Per + Art |Learn about a crafter and his designs by looking at his work. |
-|Work Harder |●● |1L |- |Perform artistic pursuits without fatigue penalties. |
-|Cannibalize |●●● |2L + 1W |- |Create tools for the project at hand. |
-|Nectar and Ambrosia |●●● |3L + 1W + 1 Le |Wit + Art |Create foodstuffs that grant magical bonus to whomever eats them. |
-|Curse of Ineptitude |●●●● |3L |Man + Pol |Curse a rival artist with clumsiness while creating. |
-|Jury-Rig |●●●● |3L + 1W |- |Substitute some materials when working on a project. |
-|Lullabye |●●●● |4L |Man + Art |Lull targets to sleep with your performance. |
-|Sublime Suspension |●●●●● |3L + 1W |Sta + Art |Cause a live performance to repeat for new audiences. |
-|Fire in the Belly |●●●●● |3L + 1W |Cha + Com |Temporarily grant artistic Virtues to listeners. |
-|Speedbuild |●●●●● |- |- |Build objects at twice your normal speed. |
-|Artisan of the Ages |●●●●● ● |- |- |Gain free dots in Art equal to your Artistry Boons. |
-|Creation Memory |●●●●● ● |Varies |Wit + Com |Summon an item you made to you, no matter where you are. |
-|Tool of Fate |●●●●● ● |1W |- |Create items much faster but allow Fate to decide who owns them. |
-|Forgery |●●●●● ●● |Varies |Man + Lar |Create copies of objects, even relics. |
-|Mystical Masterwork |●●●●● ●● |1L + 1W |- |Create artwork that uses Charisma knacks on viewers. |
-|Reclamation |●●●●● ●● |5L |Per + Inv |Recreate a destroyed object you created. |
-|Mark of the Muse |●●●●● ●●● |1W dot |- |Gain resources by granting your Arts to others. |
-|Mystery of Imhotep |●●●●● ●●● |10L + 1W |Cha + Com |Grant your Arts to workers that aid you on a project. |
-|Gears of the World/Music of the Spheres |●●●●● ●●●● |10L |- |Learn the short-term consequences of an action before you take it. |
-|Uncreation |●●●●● ●●●● |2W |- |Destroy a relic you created to regain resources. |
-|Breath of Life |●●●●● ●●●●● |10L + 2W + 1Le |Int + Emp |Bring an inanimate object to life. |
-|Ex Nihilo |●●●●● ●●●●● |15L |Wit + Art |Create objects from nothing. |
-|The Creator |●●●●● ●●●●● ● |30L + 1W |- |Create anything you can think of out of any materials you wish, unmake and rearrange all created objects and turn any item toward whatever purpose you wish. |
+
+| Boon | Level | Cost | Roll | Effect  |
+|--------|--------|--------|--------|--------|
+| Fundamentals | ● | - | - | Add your artistry Boons to all Art rolls. |
+| Work Smarter | ● | 2L+1W | Wit+Art | Build any mundane project in a single scene. |
+| Polymath | ●● | - | - | Use more general Art specializations. |
+| Rival Reading | ●● | 1L | Per + Art | Learn about a crafter and his designs by looking at his work. |
+| Work Harder | ●● | 1L | - | Perform artistic pursuits without fatigue penalties. |
+| Cannibalize | ●●● | 2L + 1W | - | Create tools for the project at hand. |
+| Nectar and Ambrosia | ●●● | 3L + 1W + 1 Le | Wit + Art | Create foodstuffs that grant magical bonus to whomever eats them. |
+| Curse of Ineptitude | ●●●● | 3L | Man + Pol | Curse a rival artist with clumsiness while creating. |
+| Jury-Rig | ●●●● | 3L + 1W | - | Substitute some materials when working on a project. |
+| Lullabye | ●●●● | 4L | Man + Art | Lull targets to sleep with your performance. |
+| Sublime Suspension | ●●●●● | 3L + 1W | Sta + Art | Cause a live performance to repeat for new audiences. |
+| Fire in the Belly | ●●●●● | 3L + 1W | Cha + Com | Temporarily grant artistic Virtues to listeners. |
+| Speedbuild | ●●●●● | - | - | Build objects at twice your normal speed. |
+| Artisan of the Ages | ●●●●● ● | - | - | Gain free dots in Art equal to your Artistry Boons. |
+| Creation Memory | ●●●●● ● | Varies | Wit + Com | Summon an item you made to you, no matter where you are. |
+| Tool of Fate | ●●●●● ● | 1W | - | Create items much faster but allow Fate to decide who owns them. |
+| Forgery | ●●●●● ●● | Varies | Man + Lar | Create copies of objects, even relics. |
+| Mystical Masterwork | ●●●●● ●● | 1L + 1W | - | Create artwork that uses Charisma knacks on viewers. |
+| Reclamation | ●●●●● ●● | 5L | Per + Inv | Recreate a destroyed object you created. |
+| Mark of the Muse | ●●●●● ●●● | 1W dot | - | Gain resources by granting your Arts to others. |
+| Mystery of Imhotep | ●●●●● ●●● | 10L + 1W | Cha + Com | Grant your Arts to workers that aid you on a project. |
+| Gears of the World/Music of the Spheres | ●●●●● ●●●● | 10L | - | Learn the short-term consequences of an action before you take it. |
+| Uncreation | ●●●●● ●●●● | 2W | - | Destroy a relic you created to regain resources. |
+| Breath of Life | ●●●●● ●●●●● | 10L + 2W + 1Le | Int + Emp | Bring an inanimate object to life. |
+| Ex Nihilo | ●●●●● ●●●●● | 15L | Wit + Art | Create objects from nothing. |
+| The Creator | ●●●●● ●●●●● ● | 30L + 1W | - | Create anything you can think of out of any materials you wish, unmake and rearrange all created objects and turn any item toward whatever purpose you wish. |
+
 While anyone can create crafted items or perform in the arts, few have access to the secrets of imbuing true power into their abilities. Only Scions with the Artistry purview may craft relics and magic items; all others are restricted to the mundane.
 
 ### FUNDAMENTALS ●
@@ -55,18 +56,19 @@ The Scion with this Boon is a master of engineering, so skilled that he instinct
 
 While all Scions are capable of superhuman artistry, the Scion with this Boon has an instinctive mastery of creation that surpasses anything her rivals might be capable of. Instead of the usual narrow specializations of the Art ability, the Scion now need purchase Art only in the following categories:
 
-|Art |Disciplines |
-|---|---|
-|Architecture |Buildings, blueprints |
-|Culinary |Food, drink, perfumes |
-|Engineering |Machinery, engines, mechanics |
-|Metalsmithing |Smelting, jewelry, casting |
-|Modern |Electronics, plastics |
-|Performance |Art, Dance, music, oratory, writing |
-|Stonework |Masonry, sculpting, brickwork |
-|Textiles |Weaving, sewing, clothing |
-|Visual Art |Painting, drawing, photography |
-|Woodwork |Carpentry, carving |
+| Art | Disciplines  |
+|--------|--------|
+| Architecture | Buildings, blueprints |
+| Culinary | Food, drink, perfumes |
+| Engineering | Machinery, engines, mechanics |
+| Metalsmithing | Smelting, jewelry, casting |
+| Modern | Electronics, plastics |
+| Performance | Art, Dance, music, oratory, writing |
+| Stonework | Masonry, sculpting, brickwork |
+| Textiles | Weaving, sewing, clothing |
+| Visual Art | Painting, drawing, photography |
+| Woodwork | Carpentry, carving |
+
 Any arts she already possesses automatically convert to these new specialties at the same dot value when she buys this boon. If she has more dots of Arts than can automatically convert, she may spend the additional dots on any of the new Arts she chooses.
 
 ### RIVAL READING ●●
@@ -162,14 +164,15 @@ By giving up his handiwork to become the tool of Fate, the Scion may create item
 
 However, there is a hefty tradeoff for such ease of creation; the new object is destined to play an important role in someone’s Fate in the future, determined by the roll of a single die, and automatically gains an extra relic dot beyond the Scion’s design (whose effects are determined by the GM, appropriate to its new owner). The Scion has no control over what the item’s eventual Fate must be, nor any knowledge of it.
 
-|Die Roll |Object’s Destined Owner |
-|---|---|
-|9-10 |The Scion |
-|7-8 |Someone in the Scion’s band |
-|5-6 |A friend or pantheon member of the Scion’s |
-|3-4 |An enemy or hostile party of the Scion’s |
-|2 |The Scion’s current nemesis |
-|1 |A new nemesis who now opposes the Scion |
+| Die Roll | Object’s Destined Owner  |
+|--------|--------|
+| 9-10 | The Scion |
+| 7-8 | Someone in the Scion’s band |
+| 5-6 | A friend or pantheon member of the Scion’s |
+| 3-4 | An enemy or hostile party of the Scion’s |
+| 2 | The Scion’s current nemesis |
+| 1 | A new nemesis who now opposes the Scion |
+
 If the roll is a 5 or higher, the Scion may choose to personally gift the item to its new owner, although if he delays doing so for more than a month, Fate will simply ensure that it arrives at its destination without his help. If he rolls a 4 or lower, the item instantly vanishes upon completion, reappearing with the one who now wields it.
 
 While the ability to create artwork or machines with incredible ease makes this Boon’s use a great temptation, the creative among the gods still use it sparingly and with great caution. All too often, Fate’s design is cruel at the worst moment, and a sword created thus might turn out to be Mistletoe, or a statue might be destined to become unfortunate Pandora.
@@ -181,12 +184,13 @@ While the ability to create artwork or machines with incredible ease makes this 
 
 For some Scions, it isn’t necessary to truly understand the inner workings or design of an item to recreate it. By spending two points of Legend per relic dot of an item (to a minimum of two for mundane objects) while touching or holding an object, a Scion may instantly duplicate it into a second one, creating perfect copies and flawless forgeries simply by copying whatever he sees. He must be able to gain a number of successes equal to ten times the number of relic dots the original item possesses; if he does so, the newly-created duplicate is a perfect copy, but if he falls short the copy will be flawed, as detailed below (all relic results are rounded down):
 
-|Difference in Successes |Mundane Results |Relic Results |
-|---|---|---|
-|0-10 |Item appears perfect but functions poorly |Relic has 1/2 bonuses or capabilites and its powers cost double |
-|10-20 |Item appears damaged and functions poorly |Relic has 1/3 bonuses or capabilities and its powers cost triple |
-|20-30 |Item bears only vague resemblance to original and does not function at all |Relic has 1/4 bonuses or capabilities and its powers cost four times their usual price |
-|31+ |Item is unrecognizable and useless |Relic has 1/10 bonuses or capabilities and its powers cost ten times their usual price |
+| Difference in Successes | Mundane Results | Relic Results  |
+|--------|--------|--------|
+| 0-10 | Item appears perfect but functions poorly | Relic has 1/2 bonuses or capabilites and its powers cost double |
+| 10-20 | Item appears damaged and functions poorly | Relic has 1/3 bonuses or capabilities and its powers cost triple |
+| 20-30 | Item bears only vague resemblance to original and does not function at all | Relic has 1/4 bonuses or capabilities and its powers cost four times their usual price |
+| 31+ | Item is unrecognizable and useless | Relic has 1/10 bonuses or capabilities and its powers cost ten times their usual price |
+
 For example, a Scion might decide to duplicate a famous painting, intent on selling it as the original and making millions of dollars off the forged copy before disappearing with his ill-gotten gain. He spends two points of Legend and gets ten successes on his roll, creating a perfect copy of the Mona Lisa. He hands it off to a dealer and gets out of town before it can expire at the end of the month. On the other hand, a Scion might decide to create a forgery of his bandmate’s seven-dot relic sword, which allows her to channel the Fire purview, shoot blasts of flame at her enemies for sixteen yards in every direction for 3 Legend per attack and add her Legend as dice to all Survival rolls. He must spend fourteen dots of Legend for such an undertaking, and needs 70 successes to succeed, but only manages to roll 55. The resulting forged sword is rusty, pitted, pockmarked and obviously not in great condition, costs 9 Legend per attack to shoot fire for only five yards in any direction, and only grants a third of his Legend rating to Survival rolls.
 
 The new-forged copy is not tied to anyone as a Birthright if it is a relic, and anyone with Epic Perception dots at least equal to the Scion’s level of Artistry is able to identify it as a forgery on sight. The Scion may only duplicate crafted items in this way; he cannot recreate living things or naturally-occurring objects, and he also cannot create forgeries of star-level relics, which are too awesome and complex for mere copycatting. The forged item is still not a true creation, despite its convincing appearance, and degrades and becomes unusable after a number of days equal to the Scion’s total number of Artistry Boons, crumbling to useless dust.

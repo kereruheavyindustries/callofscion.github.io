@@ -4,28 +4,30 @@ title:  "Earth"
 tag: "purview"
 ---
 ## EARTH
-|Boon |Level |Cost |Roll |Effect |
-|---|---|---|---|---|
-|Root of the Mountain |● |1L |— |Become impossible to knock down or pick up as long as you don’t move from one spot. |
-|Safely Interred |● |— |— |Take no damage or penalties for being buried or crushed under earth, and remain unharmed by Earth Boons. |
-|Echo Sounding |●● |— |Per + Awa |Sound the ground around you to find out what lies beneath it. |
-|Tectonic Strength |●● |1W |— |Add twice your Earth Boons to your Strength for your next Feat of Strength. |
-|Shaping |●●● |1L |Dex + Art |Shape any earthen substance as easily as clay. |
-|Summon Goblins |●●● |1W |Cha + Com |Summon goblins to do your bidding. |
-|Earth Armor |●●●● |1L |— |Cover yourself in armor that adds to your bashing and lethal soaks. |
-|Rust/Shine |●●●● |2L |— |Enhance metal to grant it bonuses or rust it to inflict penalties. |
-|Earth Travel |●●●●● |1L |— |Swim through earth as if it were water. |
-|Quicksand |●●●●● |2L |Man + Sur |Create an area of quicksand to suck down your enemies. |
-|Earth Body |●●●●● ● |1L/3L + 1W |— |Turn yourself into a mobile statue, gaining soak and weight. |
-|Earthborn Spirit |●●●●● ● |5L + 1W |Cha + Com |Summon earth elementals to do your bidding. |
-|Imprisoning Crystal |●●●●● ●● |5L + 2W |Int + Sur |Trap your target in a giant crystal. |
-|Landslide |●●●●● ●● |5L + 1W |Str + Sur |Move, shape and avalanche large quantities of earth. |
-|Earth Creation |●●●●● ●●● |1+L |— |Create earth from your own body. |
-|Property Infusion |●●●●● ●●●● |5L |Int + Art |Give any earthen substance properties of another. |
-|Earth Beast |●●●●● ●●●● |15L + 2W |Cha + Com |Summon a massive earthen creature of your culture to do your bidding. |
-|Magma Control |●●●●● ●●●●● |10L + 1W |Man + Sur |Cause magma to burst out of the earth and obey your commands. |
-|Seismic Disruption |●●●●● ●●●●● |15L + 2W |Str + Sur |Create earthquakes. |
-|The Shaper |●●●●● ●●●●● ● |30L + 1W |— |Shape and move all earth with a thought, swallow anything into the earth and sweep aside other natural disasters. |
+
+| Boon | Level | Cost | Roll | Effect  |
+|--------|--------|--------|--------|--------|
+| Root of the Mountain | ● | 1L | — | Become impossible to knock down or pick up as long as you don’t move from one spot. |
+| Safely Interred | ● | — | — | Take no damage or penalties for being buried or crushed under earth, and remain unharmed by Earth Boons. |
+| Echo Sounding | ●● | — | Per + Awa | Sound the ground around you to find out what lies beneath it. |
+| Tectonic Strength | ●● | 1W | — | Add twice your Earth Boons to your Strength for your next Feat of Strength. |
+| Shaping | ●●● | 1L | Dex + Art | Shape any earthen substance as easily as clay. |
+| Summon Goblins | ●●● | 1W | Cha + Com | Summon goblins to do your bidding. |
+| Earth Armor | ●●●● | 1L | — | Cover yourself in armor that adds to your bashing and lethal soaks. |
+| Rust/Shine | ●●●● | 2L | — | Enhance metal to grant it bonuses or rust it to inflict penalties. |
+| Earth Travel | ●●●●● | 1L | — | Swim through earth as if it were water. |
+| Quicksand | ●●●●● | 2L | Man + Sur | Create an area of quicksand to suck down your enemies. |
+| Earth Body | ●●●●● ● | 1L/3L + 1W | — | Turn yourself into a mobile statue, gaining soak and weight. |
+| Earthborn Spirit | ●●●●● ● | 5L + 1W | Cha + Com | Summon earth elementals to do your bidding. |
+| Imprisoning Crystal | ●●●●● ●● | 5L + 2W | Int + Sur | Trap your target in a giant crystal. |
+| Landslide | ●●●●● ●● | 5L + 1W | Str + Sur | Move, shape and avalanche large quantities of earth. |
+| Earth Creation | ●●●●● ●●● | 1+L | — | Create earth from your own body. |
+| Property Infusion | ●●●●● ●●●● | 5L | Int + Art | Give any earthen substance properties of another. |
+| Earth Beast | ●●●●● ●●●● | 15L + 2W | Cha + Com | Summon a massive earthen creature of your culture to do your bidding. |
+| Magma Control | ●●●●● ●●●●● | 10L + 1W | Man + Sur | Cause magma to burst out of the earth and obey your commands. |
+| Seismic Disruption | ●●●●● ●●●●● | 15L + 2W | Str + Sur | Create earthquakes. |
+| The Shaper | ●●●●● ●●●●● ● | 30L + 1W | — | Shape and move all earth with a thought, swallow anything into the earth and sweep aside other natural disasters. |
+
 ### ROOT OF THE MOUNTAIN ●
 **Cost:** 1 Legend per use
 
@@ -110,9 +112,10 @@ By calling out the name of the substance he wishes to turn into and converting h
 
 When a Scion possesses this boon, her control over the earth is so great that she may summon up its very spirit to act on her behalf. Upon paying the requisite cost, the Scion summons a ten-foot-tall earth elemental of enormous strength and endurance which obeys her commands to the best of its ability. For every five successes past the first on her activation roll, the Scion may summon an additional elemental; alternatively, she may add 3 to her already-summoned elementals’ health and soaks, 2 to their damage, and 1 to their accuracy, speed, and DV. The elemental receives ten automatic successes to all physical feats or attacks and has the following abilities if unaugmented:
 
-|Accuracy: 5 |Damage: 10 |Soaks: 25 |
-|---|---|---|
-|Health: 25 |Speed: 15 |DV: 13 |
+| Accuracy: 5 | Damage: 10 | Soaks: 25  |
+|--------|--------|--------|
+| Health: 25 | Speed: 15 | DV: 13 |
+
 The elementals possess the same level 5 Earth Boon(s) as the Scion and need never pay for them, though they may only use them once per scene. In addition, the elementals may at any time reform in front of another person or object at the Scion’s discretion and absorb an attack directed at it, provided that they are holding action or Guarding at the time (this is a 2 turn). Targets who are also skilled in the Earth purview have an additional soak versus the elemental’s attacks equal to the number of Earth Boons they possess, and may add the same amount to all damage when attacking the creature. At the end of the scene, the elemental returns to the earth whence it came.
 
 ### IMPRISONING CRYSTAL ●●●●● ●●
@@ -150,9 +153,10 @@ The Scion with this Boon bends the rules of the natural world to her whim, playi
 
 The Scion with this power may command the most awesome of the earth’s creatures, a being of stone, mud or immovable dirt. A massive creature (each Scion should chose a unique creature to represent him upon purchasing this Boon, appropriate to his character and culture of origin) created from the bones of the earth itself, the beast will fulfill the Scion’s commands to the best of its abilities, giving him a gigantic war machine poised at his command. The beast receives 20 automatic successes to all physical feats or attacks and has the following abilities:
 
-|Accuracy: 10 |Damage: 20 |Soaks: 50 |
-|---|---|---|
-|Health: 200 |Speed: 15 |DV: 10 |
+| Accuracy: 10 | Damage: 20 | Soaks: 50  |
+|--------|--------|--------|
+| Health: 200 | Speed: 15 | DV: 10 |
+
 The beast naturally possesses the Earth Travel Boon and need never pay for it; it also possesses whichever level 7 Earth Boon the Scion does, and may use it for free as a 10-tick action. In addition, the creature may use the following special powers:
 
 Intercept – the beast may at any time place itself in front of another person or object at the Scion’s discretion and absorb an attack directed at it, provided that it is holding action or Guarding at the time (this is a 5-tick action).
@@ -173,16 +177,17 @@ The destructive blood of the earth, pure molten magma and lava, are now under th
 
 The Scion with this Boon may shift and shake the very tectonic plates of the earth itself, causing massive quakes and tremors to devastate the countryside wherever she chooses. By spending the requisite cost and striking the ground or screaming her command to the earth, the Scion may cause it to shudder and buck, inciting a full earthquake with Richter Scale severity equal to one tenth of her successes to strike in her immediate area, regardless of whether or not the tectonic plates beneath her are inclined toward violence. The quake’s effects may only be avoided on a person-by-person basis by a successful roll of either Dexterity + Athletics or Stamina + Fortitude; if any person does not succeed in this roll, they immediately suffer from knockdown and take bashing damage equal to the Scion’s threshold successes. The earthquake’s full effects are as follows:
 
-|Richter Scale Rating |Difficulty to Avoid Damage |Mortal Population Killed |Earthquake’s Effects |After-Effects |
-|---|---|---|---|---|
-|1 – 3 |— |— |Minor tremors, consternation |— |
-|4 |5 |5% |Only those at the epicenter roll (those with Cat’s Grace are immune) |— |
-|5 |8 |5% |Range of 10 miles (those with Divine Balance are immune) |— |
-|6 |11 |5% |Severe damage to small buildings and bridges, range of 100 miles |— |
-|7 |15 (within 100 miles) or 11 (within 500 miles) |10% |Severe damage to large buildings, range of 1,000 miles |A few local Richter 5 aftershocks |
-|8 |20 (within 100 miles) or 15 (within 500 miles) or 10 (within 1000 miles) |10% |Total destruction of all buildings, severe damage for 500 miles, full range of 2,000 miles |A few Richter 6 aftershocks on the same continent; a few tsunamis |
-|9 |30 (within 1000 miles) or 20 (within 2000 miles) ot 10 (within 3000 miles) |10% |Total destruction of all landscape and creations within 100 miles, full range of 5,000 miles |Worldwide tsunamis and aftershocks of varying severity |
-|10 |40 (within 2000 miles) or 20 (within 3000 miles) or 10 (within 5000 miles) |20% |Total destruction of all landscape and creations within 500 miles, severe damage to major buildings with 1,000 miles, damage to small buildings within 3,000 miles, heavy tremors within 5,000 miles, full range of 10,000 miles |Islands sink, volcanoes erupt, tsunamis and aftershocks of intense severity worldwide |
+| Richter Scale Rating | Difficulty to Avoid Damage | Mortal Population Killed | Earthquake’s Effects | After-Effects  |
+|--------|--------|--------|--------|--------|
+| 1 – 3 | — | — | Minor tremors, consternation | — |
+| 4 | 5 | 5% | Only those at the epicenter roll (those with Cat’s Grace are immune) | — |
+| 5 | 8 | 5% | Range of 10 miles (those with Divine Balance are immune) | — |
+| 6 | 11 | 5% | Severe damage to small buildings and bridges, range of 100 miles | — |
+| 7 | 15 (within 100 miles) or 11 (within 500 miles) | 10% | Severe damage to large buildings, range of 1,000 miles | A few local Richter 5 aftershocks |
+| 8 | 20 (within 100 miles) or 15 (within 500 miles) or 10 (within 1000 miles) | 10% | Total destruction of all buildings, severe damage for 500 miles, full range of 2,000 miles | A few Richter 6 aftershocks on the same continent; a few tsunamis |
+| 9 | 30 (within 1000 miles) or 20 (within 2000 miles) ot 10 (within 3000 miles) | 10% | Total destruction of all landscape and creations within 100 miles, full range of 5,000 miles | Worldwide tsunamis and aftershocks of varying severity |
+| 10 | 40 (within 2000 miles) or 20 (within 3000 miles) or 10 (within 5000 miles) | 20% | Total destruction of all landscape and creations within 500 miles, severe damage to major buildings with 1,000 miles, damage to small buildings within 3,000 miles, heavy tremors within 5,000 miles, full range of 10,000 miles | Islands sink, volcanoes erupt, tsunamis and aftershocks of intense severity worldwide |
+
 ### THE SHAPER
 **Cost:** 30 Legend and 1 Willpower per scene
 
